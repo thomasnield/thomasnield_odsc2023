@@ -1,4 +1,4 @@
 from sympy import *
 x = symbols('x')
-f = 2*x* + 3*x + pi 
-print(f)
+f = 3*x**2 + 1
+plot(f)
